@@ -1,4 +1,4 @@
-# IoT-Telemetry-Data-Standardizer
+# IoT Telemetry Data Standardizer
 A Python module built as part of the Deloitte Australia Technology Job Simulation (via Forage), 
 simulating a real-world consulting engagement for a client ("Daikibo") that needed telemetry 
 data from multiple factory devices unified into a single, consistent format.
